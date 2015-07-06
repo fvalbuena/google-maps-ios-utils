@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <GoogleMaps/GoogleMaps.h>
+#import <GoogleMapsM4B/GoogleMaps.h>
 #import "GClusterAlgorithm.h"
 #import "GClusterRenderer.h"
 #import "GQTPointQuadTreeItem.h"

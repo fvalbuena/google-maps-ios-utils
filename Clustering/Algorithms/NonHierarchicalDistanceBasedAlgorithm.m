@@ -1,4 +1,4 @@
-#import <GoogleMaps/GoogleMaps.h>
+#import <GoogleMapsM4B/GoogleMaps.h>
 #import "NonHierarchicalDistanceBasedAlgorithm.h"
 #import "GQTBounds.h"
 #import "GQTPoint.h"

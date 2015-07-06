@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <GoogleMaps/GoogleMaps.h>
+#import <GoogleMapsM4B/GoogleMaps.h>
 #import "GClusterRenderer.h"
 
 @interface GDefaultClusterRenderer : NSObject <GClusterRenderer> 
