@@ -15,7 +15,6 @@ Pod::Spec.new do |s|
 		     :tag => "0.1" }
   s.source_files = '{QuadTree,Clustering,Projection}/**/*.{h,m}'
   s.requires_arc = true
-  s.dependencies = 
   s.ios.vendored_frameworks = 'Frameworks/GoogleMapsM4B.framework'
   s.frameworks = 'Foundation', 'GoogleMapsM4B'
 
