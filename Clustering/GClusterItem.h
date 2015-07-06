@@ -1,6 +1,6 @@
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
-#import <GoogleMaps/GMSMarker.h>
+#import <GoogleMapsM4B/GMSMarker.h>
 
 @protocol GClusterItem <NSObject>
 
