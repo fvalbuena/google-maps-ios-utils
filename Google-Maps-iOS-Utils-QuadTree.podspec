@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.dependencies = 
   s.ios.vendored_frameworks = 'Frameworks/GoogleMapsM4B.framework'
-  s.frameworks = 'Foundation', 'GoogleMapsM4B’
+  s.frameworks = 'Foundation', 'GoogleMapsM4B'
 
 end
